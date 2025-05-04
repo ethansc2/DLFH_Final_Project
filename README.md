@@ -1,12 +1,12 @@
 # DLFH_Final_Project
 
 Dependencies:
-Gudhi
-Numpy
-Nibabel
-Scipy
-Sklearn
-Tensorflow
+Gudhi,
+Numpy,
+Nibabel,
+Scipy,
+Sklearn,
+Tensorflow,
 
 Results of non-layer reduced replicated model.
 

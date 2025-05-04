@@ -6,7 +6,7 @@ Numpy,
 Nibabel,
 Scipy,
 Sklearn,
-Tensorflow,
+Tensorflow
 
 Results of non-layer reduced replicated model.
 

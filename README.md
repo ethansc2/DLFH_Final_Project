@@ -8,7 +8,7 @@ Scipy,
 Sklearn,
 Tensorflow
 
-Results of non-layer reduced replicated model.
+Results of non-layer reduced replicated model:
 
 Balanced Accuracy: 0.8421052631578947
 
